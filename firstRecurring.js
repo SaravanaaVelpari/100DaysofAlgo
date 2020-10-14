@@ -22,3 +22,7 @@ firstrecurring(input)
   
   //time complexity O(n)
   //space complexity O(1)
+
+
+  //Note: different answers will come on the nested & hash outputs for [2,5,5,2]
+  //if 2 needs to be the answer, then we need to go for nested for loop :)
