@@ -1,2 +1,2 @@
 # 100DaysofAlgo
-memories of my algo coding practises
+Log of my algorithm coding using JavaScript
