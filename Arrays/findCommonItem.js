@@ -1,6 +1,6 @@
 // Compare two arrays to find if it has common entry and return boolean.
 // Considering Time Complexity and to avoid Quadratic solution (nested for loop).
-
+// oops
 array1 = [1,2,3,4,5,6] 
 array2 = [6,7,8,9,10]
 
