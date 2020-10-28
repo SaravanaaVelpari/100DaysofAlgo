@@ -6,6 +6,7 @@
 // this is branch4
 array1 = [1,2,3,4,5,6] 
 array3 = [6,7,8,9,10]
+i am created first
 
 function compareForCommon(arr1,arr2){
   let map={};
