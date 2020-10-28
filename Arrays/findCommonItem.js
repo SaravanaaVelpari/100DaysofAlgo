@@ -9,11 +9,11 @@ array3 = [6,7,8,9,10]
 array4 = [6,7,8,9,10]
 
 function dog(){
-  console.log("woof")
+  console.log("woofa")
 }
 
 function dog(){
-  console.log("Meow")
+  console.log("Meowa")
 }
 
 function compareForCommon(arr1,arr2){
