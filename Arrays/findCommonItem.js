@@ -3,6 +3,7 @@
 // oops
 array1 = [1,2,3,4,5,6] 
 array2 = [6,7,8,9,10]
+mainarray = [1,2,3]
 
 function compareForCommon(arr1,arr2){
   let map={};
