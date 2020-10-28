@@ -7,7 +7,7 @@
 array1 = [1,2,3,4,5,6] 
 array3 = [6,7,8,9,10]
 
-function cat(){
+function dog(){
   console.log("Meow")
 }
 
