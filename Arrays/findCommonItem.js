@@ -8,6 +8,10 @@ array1 = [1,2,3,4,5,6]
 array3 = [6,7,8,9,10]
 array4 = [6,7,8,9,10]
 
+function dog(){
+  console.log("woof")
+}
+
 function compareForCommon(arr1,arr2){
   let map={};
   //converting first array to object (also removes duplicate)
