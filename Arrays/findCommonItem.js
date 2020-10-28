@@ -12,6 +12,10 @@ function dog(){
   console.log("woof")
 }
 
+function dog(){
+  console.log("Meow")
+}
+
 function compareForCommon(arr1,arr2){
   let map={};
   //converting first array to object (also removes duplicate)
